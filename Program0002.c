@@ -27,7 +27,6 @@ int main()
     printf("Size of long int: %zu bytes\n", sizeof(b3));
     printf("Size of short int: %zu bytes\n", sizeof(b4));
     printf("Size of long long int: %zu bytes\n", sizeof(b5));
-
     printf("Size of float: %zu bytes\n", sizeof(c0));
     printf("Size of double: %zu bytes\n", sizeof(d0));
     printf("Size of long double: %zu bytes\n", sizeof(d3));
