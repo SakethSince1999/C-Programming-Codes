@@ -4,5 +4,6 @@ This repository contains the variety of C Programming Codes from Beginner Level 
 **List of the Programs:**
 **Basics**
 Program0001 - Print "Hello World" using "printf" function
-Program0002 - 
-Program0003 - 
+Program0002 - Datatypes & Modifiers
+Program0003 - scanf
+Program0004 - 
