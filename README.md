@@ -15,7 +15,8 @@ Program0003 - "scanf" and Format Specifiers
 
 Program0004 - Arithmetic Operations - Add, Subtract, Multiply, Divide
 
-Program0005 - 
+Program0005 - ASCII Values
 
-Program0006 - 
+Program0006 - Swap two numbers using third variable
 
+Program0007 - Swap two numbers without using third variable
