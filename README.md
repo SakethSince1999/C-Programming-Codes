@@ -32,7 +32,32 @@ Program0011 - Find the given number is POSITIVE, NEGATIVE or ZERO - "if Statemen
 
 Program0012 - Find the given number is Even or Odd - "if-else Statement"
 
-Program0013 - 
+Program0013 - Program0011 using "else-if"
+
+**Loops**
+
+Program0014 - for statement
+
+Program0015 - while statement
+
+Program0016 - do-while statement
+
+**Patterns**
+
+Program0017 - 
+
+Program0018 - 
+
+Program0019 - 
+
+Program0020 - 
+
+Program0021 - 
+
+Program0022 - 
+
+
+
 
 
 
