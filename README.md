@@ -1,7 +1,6 @@
 **C-Programming-Codes**
 
-This repository contains the variety of C Programming Codes from Beginner Level to Advanced Level with different coding styles. Hope you learn something new:)
-I use Visual Studio Code:)
+This repository contains C Programming Codes from Beginner Level to Advanced Level. I use Visual Studio Code:)
 
 **List of the Programs:**
 
@@ -29,4 +28,25 @@ Program0009 - Area of Triangle - Macro Definition, typecasting
 
 Program0010 - Temperature Coversion using "Switch Statement"
 
-Program0011 - 
+Program0011 - Find the given number is POSITIVE, NEGATIVE or ZERO - "if Statement"
+
+Program0012 - Find the given number is Even or Odd - "if-else Statement"
+
+Program0013 - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
