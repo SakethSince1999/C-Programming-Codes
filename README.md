@@ -1,6 +1,6 @@
 **C-Programming-Codes**
 
-This repository contains C Programming Codes from Beginner Level to Advanced Level. I use Visual Studio Code:)
+This repository contains the syntax of all C Programming topics with simple examples.
 
 **List of the Programs:**
 
@@ -41,37 +41,4 @@ Program0014 - for statement
 Program0015 - while statement
 
 Program0016 - do-while statement
-
-**Patterns**
-
-Program0017 - 
-
-Program0018 - 
-
-Program0019 - 
-
-Program0020 - 
-
-Program0021 - 
-
-Program0022 - 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
