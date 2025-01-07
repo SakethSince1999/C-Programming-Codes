@@ -20,3 +20,7 @@ Program0005 - ASCII Values
 Program0006 - Swap two numbers using third variable
 
 Program0007 - Swap two numbers without using third variable
+
+Program0008 - Area of Circle - Macro Definition, typecasting
+
+Program0009 - Area of Triangle - Macro Definition, typecasting
